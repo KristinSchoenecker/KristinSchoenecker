@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kristin's Bio"
-  avatar           : "images/profile.png"
+  avatar           : "Kristin_in_the_mountains.jpg"
   bio              : "Hi! Welcome to my webpage! I am a first-year M.S. student in the Department of Geography at Penn State."
   location         : "State College, PA"
   employer         :
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kristin-schoenecker-00521a170/"
+  linkedin         : "kristin-schoenecker-00521a170"
   orcid            : 
   pinterest        :
   soundcloud       :
