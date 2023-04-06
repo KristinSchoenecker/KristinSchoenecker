@@ -85,7 +85,6 @@ author:
   bio              : "Hi! Welcome to my webpage! I am a first-year M.S. student in the Department of Geography at Penn State."
   location         : "State College, PA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/kristin-schoenecker-00521a170/"
   orcid            : 
   pinterest        :
   soundcloud       :
